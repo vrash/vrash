@@ -2,7 +2,7 @@
 
 I'm Vrash (he/him), I head engineering @ [carwow]. Previously I've worked at [Amazon], [Bankbazaar], [Oracle] and a few startups. 
 
-We're building the best online car-buying experience. We're also hiring really quickly, come join us !-> [Careers at carwow]
+We're building the best online car-buying experience.
 
 Talk to me [@vrashabh] or feel free to DM me on [LinkedIn]. I try and respond to most folks on Sunday nights. 
 
