@@ -7,14 +7,14 @@ Talk to me [@vrashabh] or feel free to DM me on [LinkedIn]. I try and respond to
 
 
 ### Things I've written on the interwebs
-- More recent
+Recent
 - [A scoring system for assessing burnout](https://medium.com/carwow-product-engineering/a-scoring-system-for-assessing-burnout-599f4791233e)
 - [Engineering management as a Socratic Dialogue](https://medium.com/carwow-product-engineering/engineering-management-as-a-socratic-dialogue-25918232439f)
 - [Career progression at carwow](https://medium.com/carwow-product-engineering/engineering-progression-at-carwow-bee8337ec05d)
 - [The Engineering Manager README](https://medium.com/carwow-product-engineering/the-engineering-manager-readme-a0d398f46e82)
 - [Help yourself to better 1:1s](https://medium.com/carwow-product-engineering/help-yourself-to-better-1-1s-27c25f7d8d1e)
 
-- Older (less interesting)
+Older (less interesting)
 - [Interview engineers like a Reverse Bloom Filter](https://whizmodo.wordpress.com/2015/02/25/interview-engineers-like-a-reverse-bloom-filter/)
 - [Summarizing Sam Altmans CS183 classes](https://whizmodo.wordpress.com/2014/09/25/sam-altmans-cs183b-class-0/)
 
