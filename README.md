@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Vrash (he/him), I head engineering @ [carwow].  We're building the best online car-buying experience.
+I'm Vrash (he/him), director of engineering @ [carwow].  We're building the best online car-buying experience.
 Previously I've worked at [Amazon], [Bankbazaar], [Oracle] and a few startups.
 
 Talk to me [@vrashabh] or feel free to DM me on [LinkedIn]. I try and respond to most folks on Sunday nights. 
@@ -8,6 +8,7 @@ Talk to me [@vrashabh] or feel free to DM me on [LinkedIn]. I try and respond to
 
 ### Things I've written on the interwebs
 Recent
+  - [Inclusive Agile: Extending the Reach of the Manifesto](https://medium.com/carwow-product-engineering/inclusive-agile-extending-the-reach-of-the-manifesto-248b07b92869)
 - [A scoring system for assessing burnout](https://medium.com/carwow-product-engineering/a-scoring-system-for-assessing-burnout-599f4791233e)
 - [Engineering management as a Socratic Dialogue](https://medium.com/carwow-product-engineering/engineering-management-as-a-socratic-dialogue-25918232439f)
 - [Career progression at carwow](https://medium.com/carwow-product-engineering/engineering-progression-at-carwow-bee8337ec05d)
