@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-I'm Vrash (he/him), director of engineering @ [carwow].  We're building the best online car-buying experience.
-Previously I've worked at [Amazon], [Bankbazaar], [Oracle] and a few startups.
+I'm Vrash (he/him), the interim CTO at  @[Checkatrade].  We're building the trusted foundation for every home in the UK. 
+Previously I've worked at [carwow], [Amazon], [Bankbazaar], [Oracle] and a few startups.
 
 Talk to me [@vrashabh] or feel free to DM me on [LinkedIn]. I try and respond to most folks on Sunday nights. 
 
 
 ### Things I've written on the interwebs
 Recent
-  - [Inclusive Agile: Extending the Reach of the Manifesto](https://medium.com/carwow-product-engineering/inclusive-agile-extending-the-reach-of-the-manifesto-248b07b92869)
+- [Engineering leadership in a non ZIRP world](https://medium.com/@vrashabhirde/engineering-leadership-in-a-non-zirp-world-76cca33f89fd)
+- [Inclusive Agile: Extending the Reach of the Manifesto](https://medium.com/carwow-product-engineering/inclusive-agile-extending-the-reach-of-the-manifesto-248b07b92869)
 - [A scoring system for assessing burnout](https://medium.com/carwow-product-engineering/a-scoring-system-for-assessing-burnout-599f4791233e)
 - [Engineering management as a Socratic Dialogue](https://medium.com/carwow-product-engineering/engineering-management-as-a-socratic-dialogue-25918232439f)
 - [Career progression at carwow](https://medium.com/carwow-product-engineering/engineering-progression-at-carwow-bee8337ec05d)
@@ -23,6 +24,7 @@ The note on 1-1's is also now in a book by Camille Fournier - buy it [here](http
 
 <img src="https://covers.oreillystatic.com/images/0636920251835/lrg.jpg" alt="book" width="300"/>
 
+[checkatrade]: https://www.checkatrade.com
 [carwow]: https://github.com/carwow
 [Amazon]: https://github.com/amzn
 [Bankbazaar]: https://github.com/bankbazaar
