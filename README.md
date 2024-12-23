@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-I'm Vrash (he/him). I was the interim CTO @[Checkatrade] until 12/24 but now run engineering for checkatrade labs.  We're building the trusted foundation for every home in the UK. 
+I'm Vrash (he/him). After serving as interim CTO at [Checkatrade](www.checkatrade.com) through December 2024, I now lead engineering for Checkatrade Labs - an exciting new chapter focused on driving innovation!  
+We're building the trusted foundation for every home in the UK. And we're [hiring!](https://apply.checkatrade.com/vacancies/vacancy-search-results.aspx) 
+
 Previously I've worked at [carwow], [Amazon], [Bankbazaar], [Oracle] and a few startups.
 
 Talk to me [@vrashabh] or feel free to DM me on [LinkedIn]. I try and respond to most folks on Sunday nights. 
-
 
 ### Things I've written on the interwebs
 Recent
