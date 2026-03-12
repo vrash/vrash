@@ -1,9 +1,10 @@
 ### Hi there 👋
+Founder and Builder. [Ombox](www.ombox.ai)
+Director - AI labs at [Checkatrade](www.checkatrade.com) 
 
-I'm Vrash (he/him). After serving as interim CTO at [Checkatrade](www.checkatrade.com) through December 2024, I now lead engineering for Checkatrade Labs - an exciting new chapter focused on driving innovation!  
-We're building the trusted foundation for every home in the UK. And we're [hiring!](https://apply.checkatrade.com/vacancies/vacancy-search-results.aspx) 
-
-Previously I've worked at [carwow], [Amazon], [Bankbazaar], [Oracle] and a few startups.
+Previously 
+Interim CTO at [Checkatrade](www.checkatrade.com) 
+Leadership roles at [carwow], [Amazon], [Bankbazaar], [Oracle] and a few startups.
 
 Talk to me [@vrashabh] or feel free to DM me on [LinkedIn]. I try and respond to most folks on Sunday nights. 
 
