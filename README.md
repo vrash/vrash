@@ -1,7 +1,7 @@
 ### Hi there 👋
 Currently
-- Founder and Builder. [Ombox](www.ombox.ai)
-- Director - AI Efforts, Labs, TradeMore at [Checkatrade](www.checkatrade.com) 
+- Founder and Builder. [Ombox](https://www.ombox.ai)
+- Director - AI Efforts, Labs, TradeMore at [Checkatrade](https://trademore.co.uk) 
 
 Previously 
 - Interim CTO at [Checkatrade](www.checkatrade.com) 
