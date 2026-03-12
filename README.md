@@ -1,10 +1,11 @@
 ### Hi there 👋
-Founder and Builder. [Ombox](www.ombox.ai)
-Director - AI labs at [Checkatrade](www.checkatrade.com) 
+Currently
+- Founder and Builder. [Ombox](www.ombox.ai)
+- Director - AI Efforts, Labs, TradeMore at [Checkatrade](www.checkatrade.com) 
 
 Previously 
-Interim CTO at [Checkatrade](www.checkatrade.com) 
-Leadership roles at [carwow], [Amazon], [Bankbazaar], [Oracle] and a few startups.
+- Interim CTO at [Checkatrade](www.checkatrade.com) 
+- Leadership roles at [carwow], [Amazon], [Bankbazaar], [Oracle] and a few startups.
 
 Talk to me [@vrashabh] or feel free to DM me on [LinkedIn]. I try and respond to most folks on Sunday nights. 
 
