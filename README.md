@@ -1,10 +1,11 @@
 ### Hi there 👋
 Currently
 - Founder and Builder. [Ombox](https://www.ombox.ai)
-- Director - AI Efforts, Labs, TradeMore at [Checkatrade](https://trademore.co.uk) 
+- Founder and Builder. [ShipShape](https://ship-shape.io)
 
 Previously 
-- Interim CTO at [Checkatrade](www.checkatrade.com) 
+- Interim CTO at [Checkatrade](www.checkatrade.com)
+- Director - AI Efforts, Labs, TradeMore at [Checkatrade](https://trademore.co.uk) 
 - Leadership roles at [carwow], [Amazon], [Bankbazaar], [Oracle] and a few startups.
 
 Talk to me [@vrashabh] or feel free to DM me on [LinkedIn]. I try and respond to most folks on Sunday nights. 
