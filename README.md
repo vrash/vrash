@@ -1,7 +1,6 @@
 ### Hi there 👋
 Currently
-- Founder and Builder. [Ombox](https://www.ombox.ai)
-- Founder and Builder. [ShipShape](https://ship-shape.io)
+- Founder, CEO, and Builder. [Ombox](https://www.ombox.ai)
 
 Previously 
 - Interim CTO at [Checkatrade](www.checkatrade.com)
