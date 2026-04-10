@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+I'm Vrash. 
+
 Currently
 - Founder, CEO, and Builder. [Ombox](https://www.ombox.ai)
 
