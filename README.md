@@ -4,13 +4,19 @@ I'm Vrash.
 
 Currently
 - Founder, CEO, and Builder. [Ombox](https://www.ombox.ai)
+- Vibe coder on [Lovable](https://lovable.dev/@vrash) and other platforms. Early adopter
+
 
 Previously 
 - Interim CTO at [Checkatrade](www.checkatrade.com)
 - Director - AI Efforts, Labs, TradeMore at [Checkatrade](https://trademore.co.uk) 
 - Leadership roles at [carwow], [Amazon], [Bankbazaar], [Oracle] and a few startups.
 
-Talk to me [@vrashabh] or feel free to DM me on [LinkedIn]. I try and respond to most folks on Sunday nights. 
+Interests
+- Startups, AI, Tech
+- Fundraising
+- Investing and advice
+Talk to me [@vrashabh] or feel free to DM me on [LinkedIn]. I try and respond to most folks on Sunday nights. Open to consulting on how to transform your orgs into becoming AI first. 
 
 ### Things I've written on the interwebs
 Recent
