@@ -17,6 +17,7 @@ Interests
 - Startups, AI, Tech
 - Fundraising
 - Investing and advice
+- Math/Physics nerd
 - D&I, Neuroinclusion
 
 Talk to me [@vrashabh] or feel free to DM me on [LinkedIn]. I try and respond to most folks on Sunday nights. Open to consulting on how to transform your orgs into becoming AI first. 
