@@ -18,7 +18,7 @@ Interests
 - Fundraising
 - Investing and advice
 - Math/Physics nerd
-- D&I, Neuroinclusion
+- D&I, Neuroinclusion (Autistic + ADHD)
 
 Talk to me [@vrashabh] or feel free to DM me on [LinkedIn]. I try and respond to most folks on Sunday nights. Open to consulting on how to transform your orgs into becoming AI first. 
 
