@@ -11,6 +11,7 @@ Previously
 - Interim CTO at [Checkatrade](www.checkatrade.com)
 - Director - AI Efforts, Labs, TradeMore at [Checkatrade](https://trademore.co.uk) 
 - Leadership roles at [carwow], [Amazon], [Bankbazaar], [Oracle] and a few startups.
+- Competitive programmer (repos on hacker rank/facebook hacker cup/ advent of code/ google code jam)
 
 Interests
 - Startups, AI, Tech
