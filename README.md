@@ -18,6 +18,7 @@ Interests
 - Startups, AI, Tech
 - Fundraising
 - Investing and advice
+- [Chess](https://www.chess.com/member/idlyvadasambar)
 - Math/Physics nerd
 - D&I, Neuroinclusion (Autistic + ADHD)
 
