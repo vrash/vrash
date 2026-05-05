@@ -23,7 +23,10 @@ Interests
 Talk to me [@vrashabh] or feel free to DM me on [LinkedIn]. I try and respond to most folks on Sunday nights. Open to consulting on how to transform your orgs into becoming AI first. 
 
 ### Things I've written on the interwebs
-Recent
+
+My new substack - [Signal Over Noise](https://vrash.substack.com/)
+
+Previous Medium and older blogs
 - [Engineering leadership in a non ZIRP world](https://medium.com/@vrashabhirde/engineering-leadership-in-a-non-zirp-world-76cca33f89fd)
 - [Inclusive Agile: Extending the Reach of the Manifesto](https://medium.com/carwow-product-engineering/inclusive-agile-extending-the-reach-of-the-manifesto-248b07b92869)
 - [A scoring system for assessing burnout](https://medium.com/carwow-product-engineering/a-scoring-system-for-assessing-burnout-599f4791233e)
