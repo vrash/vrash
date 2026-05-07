@@ -12,7 +12,7 @@ Previously
 - Director - AI Efforts, Labs, TradeMore at [Checkatrade](https://trademore.co.uk) 
 - Leadership roles at [carwow], [Amazon], [Bankbazaar], [Oracle] and a few startups, including some time at YC (ImagineK12).
 - Competitive programmer (repos on hacker rank/facebook hacker cup/ advent of code/ google code jam)
-- Expert on Stackoverflow - [Profile](https://stackoverflow.com/users/1081340/vrashabh-irde) 
+- Expert on Stackoverflow before ChatGPT ate their bacon - [Profile](https://stackoverflow.com/users/1081340/vrashabh-irde) 
 
 Interests
 - Startups, AI, Tech
