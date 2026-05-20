@@ -41,7 +41,7 @@ Older (less interesting)
 - [Interview engineers like a Reverse Bloom Filter](https://whizmodo.wordpress.com/2015/02/25/interview-engineers-like-a-reverse-bloom-filter/)
 - [Summarizing Sam Altmans CS183 classes](https://whizmodo.wordpress.com/2014/09/25/sam-altmans-cs183b-class-0/)
 
-The note on 1-1's is also now in a book by Camille Fournier - buy it [here](https://amzn.to/38kAhe7)!
+Also in this book on engineering management! Buy [here](https://amzn.to/38kAhe7)! 
 
 <img src="https://covers.oreillystatic.com/images/0636920251835/lrg.jpg" alt="book" width="300"/>
 
