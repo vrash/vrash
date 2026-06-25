@@ -4,7 +4,7 @@ I'm Vrash.
 
 Currently
 - Founder, CEO, and Builder. [Ombox](https://www.ombox.ai)
-- Vibe coder on [Lovable](https://lovable.dev/@vrash) and other platforms. Early adopter
+- Agent whisperer on [Lovable](https://lovable.dev/@vrash) and other platforms. Early adopter
 
 
 Previously 
